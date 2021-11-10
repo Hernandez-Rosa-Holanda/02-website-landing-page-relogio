@@ -1,17 +1,17 @@
 <div>
   <h1>Sobre o Projeto</h1>
 
-  <h3>Coffee Shop</h3> 
+  <h3>Watch designs</h3> 
   <p>
-    Projeto feito com o intuito de atender as necessidades de um Coffee Shop, usei Html semântico, trabalhei técnicas de responsividade e manipulei o DOM com javascript deixando a página mais dinâmica.
+    Desenvolvi um layout que muda apenas com um clique. 
   </p>
 <h2>Layout</h2>
 
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/82759865/141126775-3a6758b9-852d-466c-9b9f-32aac977a411.gif">
 
  <h2>Link para visualização do projeto</h2>
 
-<a href="https://coffee-shop-website.vercel.app/">Visuzalização</a>  
+<a href="https://relogio-design.vercel.app/">Visuzalização</a>  
 
 
 <h2>Tecnologias utilizadas</h2>
@@ -19,13 +19,12 @@
 <ul>
   <li>HTML5 Semântico
   <li>CSS
-  <li>JS
 </ul>
 
 <h2>Clonar projeto</h2>
 
 <i>#Clonar repositório</i></br>
-  git clone <i>https://github.com/Hernandez-Rosa-Holanda/coffee-shop-website.git</i>
+  git clone <i></i>
 
 <h2>Autor</h2> 
 <p>
