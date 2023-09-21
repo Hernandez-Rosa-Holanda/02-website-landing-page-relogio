@@ -3,7 +3,7 @@
 
   <h3>Watch designs</h3> 
   <p>
-    Desenvolvi um layout que muda apenas com um clique. 
+    Desenvolvi uma Landing Page de relógios. 
   </p>
 <h2>Layout</h2>
 
