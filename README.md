@@ -3,7 +3,8 @@
 
   <h3>Watch designs</h3> 
   <p>
-    Desenvolvi uma Landing Page de relógios. 
+    Desenvolvi uma Landing Page de relógios.<br>https://02-website-landing-page-relogio.vercel.app/
+  </br>
   </p>
 <h2>Layout</h2>
 
